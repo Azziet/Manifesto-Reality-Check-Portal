@@ -16,3 +16,7 @@ Solution:
 3. There will be an algorithm that will analyze the rating against the promise/problem if its rating crosses 75% then Portal will mark this promise/problem as Complete.
 
 4. On the basis of inputs/problem/promises End users can see the performance of any Ruling party in specific are or country.
+
+Benefits :
+
+People of any democratic country can analyze the performance of the ruling party and decide whether they want to Vote the same party or not.
