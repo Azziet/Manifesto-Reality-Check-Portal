@@ -20,3 +20,5 @@ Solution:
 Benefits :
 
 People of any democratic country can analyze the performance of the ruling party and decide whether they want to Vote the same party or not.
+
+Analysis: Coming Soon!
